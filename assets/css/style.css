@@ -160,23 +160,23 @@ li.portfolio-item {
 }
 
 li.hangman {
-  background-image: url(../images/port1.jpg);
+  background-image: url();
 }
 
 li.rpg {
-    background-image: url(../images/port2.jpg);
+    background-image: url();
 }
 
 li.trivia {
-    background-image: url(../images/port3.jpg);
+    background-image: url();
 }
 
 li.widget {
-    background-image: url(../images/port4.jpg);
+    background-image: url();
 }
 
 li.rps {
-    background-image: url(../images/port5.jpg);
+    background-image: url();
 }
 
 li.portfolio-item:nth-child(odd) {
